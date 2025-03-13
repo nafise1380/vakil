@@ -1,28 +1,76 @@
-@font-face{
-    font-family: ;
+@font-face {
+    font-family: "IRANSansX";
+    src: url("./assets/fonts/woff2/IRANSansX-Bold.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
 }
+
+@font-face {
+    font-family: "IRANSansX";
+    src: url("./assets/fonts/woff2/IRANSansX-Medium.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "IRANSansX";
+    src: url("./assets/fonts/woff2/IRANSansX-light.woff2") format("woff2");
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: "IRANSansX";
+    src: url("./assets/fonts/woff2/IRANSansX-thin.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: "IRANSansX", sans-serif;
+    
+}
+
 
 .color{
     border: 1px solid #C7F1D4;
     width: 275px;
     height: 88px;
-   
+    background-color: #F4FCF6;
+    line-height: 20px;
+    font-size: 15px;
+    color: #2B2B2B; 
 }
 
 .text{
     width: 32px;
     height: 32px;
-}
-
-.color p{
-    color: #2B2B2B;
-    font-size: 14px;
     
 }
-
 
 
 .home{
     color: #9C9C9C;
     font-size: 12px;
+}
+
+.try{
+    font-size: 16px;
+    
+}
+
+.texts{
+    border: 1px solid #E3E3E3;
+    border-radius: 0 .5rem .5rem  .5rem; 
+    background-color: #E3F8E9;
+   
+}
+
+.colors{
+    background-color: #E3F8E9;
+    
+}
+
+.type{
+    color: #2B2B2B;
+    font-weight: bold;
+    font-size: 18px;
 }
