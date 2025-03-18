@@ -28,3 +28,17 @@ body {
     font-family: "IRANSansX", sans-serif;
     
 }
+
+
+.text{
+    border:1px solid #C7F1D4;
+    background-color: #F4FCF6;
+    font-size: 14px;
+    letter-spacing: 0.1px;
+    
+
+}
+
+.home{
+    color: #9C9C9C;
+}
