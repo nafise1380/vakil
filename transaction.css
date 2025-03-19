@@ -28,3 +28,33 @@ body {
     font-family: "IRANSansX", sans-serif;
     
 }
+
+.background{
+    font-size: 12px;
+}
+
+.try{
+    font-size: 16px;
+    color: #2B2B2B;
+   
+}
+
+.home{
+    color: #9C9C9C;
+    
+}
+
+.text{
+    font-size: 14px;
+    color: #2B2B2B;
+}
+
+.color{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.learn{
+    font-size: 12px;
+    color: #9C9C9C;
+}
